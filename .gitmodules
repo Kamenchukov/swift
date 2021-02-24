@@ -1,0 +1,3 @@
+[submodule "VkClient"]
+	path = VkClient
+	url = /Users/konstantinkamencukov/Documents/Основы языка Swift/VkClient
